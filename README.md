@@ -1,4 +1,9 @@
-Решение ошибки remote: Permission to user/repo denied to user/other-repo. fatal: unable to access user/repo: The requested URL returned error: 403
+Решение ошибки remote
+
+Permission to user/repo denied to user/other-repo. fatal:
+  unable to access user/repo:
+    The requested URL returned error:
+      403
 
 # Надеюсь данный пост поможет вам решить ошибку, с которой я разбирался почти, сука, сутки
 
